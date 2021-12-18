@@ -1,2 +1,4 @@
+reports/*
+.ipynb_checkpoints
 *.pages
 Scratch.ipynb
