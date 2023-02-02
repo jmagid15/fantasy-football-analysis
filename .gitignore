@@ -2,3 +2,4 @@ reports/*
 .ipynb_checkpoints
 *.pages
 Scratch.ipynb
+.DS_Store
